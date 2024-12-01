@@ -1,0 +1,14 @@
+{
+  "name": "simple-number-guessing-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Learning", "Experiment", "Starter Project"],
+  "author": "",
+  "license": "ISC",
+  "description": "A simple number guessing game with NodeJs"
+}
